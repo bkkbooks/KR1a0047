@@ -21,6 +21,7 @@ markers:
   - {type: line-break, offset: 11, content: '', id: KR1a0047_WYG_010-1a03}
   - {type: 'kr:non-cjk', offset: 11, content: ䷑, id: KR1a0047_krp_010-bkkkrnonc1}
   - {type: punctuation, offset: 11, content: (, id: KR1a0047_krp_010-bkkpn1}
+  - {type: voice, offset: 11, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 13, content: /, id: KR1a0047_krp_010-bkkpn2}
   - {type: punctuation, offset: 15, content: ), id: KR1a0047_krp_010-bkkpn3}
   - {type: substitution, offset: 19, original: 渉, replacement: 涉, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20791}}
@@ -1021,6 +1022,7 @@ markers:
   - {type: line-break, offset: 3261, content: '', id: KR1a0047_WYG_010-11b03}
   - {type: 'kr:non-cjk', offset: 3261, content: ䷒, id: KR1a0047_krp_010-bkkkrnonc2}
   - {type: punctuation, offset: 3261, content: (, id: KR1a0047_krp_010-bkkpn4}
+  - {type: voice, offset: 3261, length: 4, name: note, id: n2}
   - {type: punctuation, offset: 3263, content: /, id: KR1a0047_krp_010-bkkpn5}
   - {type: punctuation, offset: 3265, content: ), id: KR1a0047_krp_010-bkkpn6}
   - {type: 'kr:newline', offset: 3282, content: '
@@ -1786,6 +1788,7 @@ markers:
   - {type: line-break, offset: 5677, content: '', id: KR1a0047_WYG_010-19b01}
   - {type: 'kr:non-cjk', offset: 5677, content: ䷓, id: KR1a0047_krp_010-bkkkrnonc3}
   - {type: punctuation, offset: 5677, content: (, id: KR1a0047_krp_010-bkkpn7}
+  - {type: voice, offset: 5677, length: 4, name: note, id: n3}
   - {type: punctuation, offset: 5679, content: /, id: KR1a0047_krp_010-bkkpn8}
   - {type: punctuation, offset: 5681, content: ), id: KR1a0047_krp_010-bkkpn9}
   - {type: 'kr:newline', offset: 5698, content: '
@@ -2783,4 +2786,4 @@ markers:
 
       ', id: KR1a0047_krp_010-bkkkrnewl521}
   back: []
-hash: sha256:7a490ad4d0c9d1c94833ce9556eee095499ce1d81d73e43c93512684164952b1
+hash: sha256:e2cc5c892d2861dab773421df9e996288c2a5ce11ffed452a880426f06b15020

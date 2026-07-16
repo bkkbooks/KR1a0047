@@ -21,6 +21,7 @@ markers:
   - {type: line-break, offset: 13, content: '', id: KR1a0047_WYG_022-1a03}
   - {type: 'kr:non-cjk', offset: 13, content: ䷯, id: KR1a0047_krp_022-bkkkrnonc1}
   - {type: punctuation, offset: 13, content: (, id: KR1a0047_krp_022-bkkpn1}
+  - {type: voice, offset: 13, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 15, content: /, id: KR1a0047_krp_022-bkkpn2}
   - {type: punctuation, offset: 17, content: ), id: KR1a0047_krp_022-bkkpn3}
   - {type: substitution, offset: 23, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16186}}
@@ -896,6 +897,7 @@ markers:
   - {type: line-break, offset: 2772, content: '', id: KR1a0047_WYG_022-10a04}
   - {type: 'kr:non-cjk', offset: 2772, content: ䷰, id: KR1a0047_krp_022-bkkkrnonc2}
   - {type: punctuation, offset: 2772, content: (, id: KR1a0047_krp_022-bkkpn4}
+  - {type: voice, offset: 2772, length: 4, name: note, id: n2}
   - {type: punctuation, offset: 2774, content: /, id: KR1a0047_krp_022-bkkpn5}
   - {type: punctuation, offset: 2776, content: ), id: KR1a0047_krp_022-bkkpn6}
   - {type: variant, offset: 2787, length: 1, content: 彖, WYG: 􅂏}
@@ -1797,6 +1799,7 @@ markers:
   - {type: line-break, offset: 5734, content: '', id: KR1a0047_WYG_022-19b06}
   - {type: 'kr:non-cjk', offset: 5734, content: ䷱, id: KR1a0047_krp_022-bkkkrnonc3}
   - {type: punctuation, offset: 5734, content: (, id: KR1a0047_krp_022-bkkpn7}
+  - {type: voice, offset: 5734, length: 4, name: note, id: n3}
   - {type: punctuation, offset: 5736, content: /, id: KR1a0047_krp_022-bkkpn8}
   - {type: punctuation, offset: 5738, content: ), id: KR1a0047_krp_022-bkkpn9}
   - {type: variant, offset: 5742, length: 1, content: 彖, WYG: 􅂏}
@@ -2735,4 +2738,4 @@ markers:
 
       ', id: KR1a0047_krp_022-bkkkrnewl521}
   back: []
-hash: sha256:1ace538cf249942c4d4e9d99084c74806a857a01a06a2b75f846173fd3719c57
+hash: sha256:c0636eed6dc876507359448419d1311b3a23c734475748c49d5ae51e9fbfca0e
